@@ -17,5 +17,6 @@ console.log(ping());
 
 ```sh
 Hello Alberto lander!
+...pong
 ```
 Really nice, now we have this module running with __land__.
